@@ -1,6 +1,8 @@
 ESX = nil
 TriggerEvent('esx:getSharedObject', function(obj) ESX = obj end)
 
+
+negm 12
 local Config = Config or {}
 
 -- check if player is a coke plug
